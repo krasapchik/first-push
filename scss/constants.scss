@@ -1,0 +1,5 @@
+@mixin justify-width($space, $size){
+    display: flex;
+    justify-content:$space ;
+    width: $size;
+}
